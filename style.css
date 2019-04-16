@@ -1,0 +1,43 @@
+body {
+	background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+	text-transform: uppercase;
+	font-family: 'Cute Font', cursive;
+	font-size: 30px;
+}
+
+*:focus {
+	outline: none!important;
+}
+
+b {
+	letter-spacing: 2px;
+}
+
+.converted {
+	margin-top: 30px;
+	font-size: 120%;
+}
+
+.navbar {
+	box-shadow: 8px 8px 80000px black;
+}
+
+.value {
+	margin-top: 55px;
+}
+
+.logo {
+	height: 75px;
+	width: auto;
+}
+
+button {
+	background:#C4FCF0;
+	border: 1px solid #382B47;
+	padding-top: 2px;
+	transition: all 0.3s;
+}
+
+button:hover {
+	box-shadow: 8px 8px 8px #382B47;
+}
