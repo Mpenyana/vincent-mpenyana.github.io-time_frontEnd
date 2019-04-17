@@ -10,6 +10,7 @@ body {
 	-o-transition: all 0.5s !important;
 	transition: all 0.5s !important;
 	text-rendering: optimizeLegibility;
+	overflow-x: hidden;
 }
 
 *:focus {
